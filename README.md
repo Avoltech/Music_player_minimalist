@@ -8,4 +8,4 @@
   > just_audio: ^0.9.5
 
 
-![play-gif]("https"://github.com/Avoltech/Music_player_minimalist/blob/master/gifs/play-gif.gif")   ![search-gif]("https://github.com/Avoltech/Music_player_minimalist/blob/master/gifs/search-gif.gif")  
+![play-gif](https"://github.com/Avoltech/Music_player_minimalist/blob/master/gifs/play-gif.gif)   ![search-gif](https://github.com/Avoltech/Music_player_minimalist/blob/master/gifs/search-gif.gif)  
